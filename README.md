@@ -11,7 +11,7 @@ Save then rename Purple.html by Index.html
 Open Other.html in a text editor, replace https://scratch.mit.edu/users/soleil-des-chats with https://scratch.mit.edu/users/(your scratch account name).
 Enter the project id in https://scratch.mit.edu/projects/(id of your project)/embed .
 replace https://scratch.mit.edu/projects/516547769/embed with https://scratch.mit.edu/projects/(your game id)/embed .
-Replace Purple.Html by Index
+Replace Purple.Html by Index .
 File configuration is complete.
   #    Website
 Create a new github repository named (your github account name).github.io, without readme. 
